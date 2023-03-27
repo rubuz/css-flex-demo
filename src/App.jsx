@@ -1,6 +1,5 @@
 import { useState } from "react";
 import Box from "./components/Box";
-import "./App.css";
 
 function App() {
   const [flexDirection, setFlexDirection] = useState("row");
